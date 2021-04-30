@@ -1,0 +1,6 @@
+COLUMN TABLE MY_BOOKSHOP_TEST (
+    ID Integer,
+    TITLE Nvarchar(256),
+    STOCK Integer,
+    Primary key (id)
+)
